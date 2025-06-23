@@ -1,6 +1,10 @@
 # USC-kiit-assesment-2
 USC kiit assesement 2
+
+
 📝 Project Description
+
+
 This project is a responsive admin dashboard built entirely using HTML and Tailwind CSS, with no custom CSS or JavaScript. It features a modern, clean UI layout ideal for data-driven web applications. The dashboard includes:
 
 📌 Sidebar navigation with icons and section labels
@@ -26,4 +30,6 @@ OUTPUT
 This is made using
 
 HTML
+
+
 TAILWINDCSS
